@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\OneDrive\\Documentos\\LabCGeiHC\\LabCGeiHC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21E38D3-C147-424D-8F4E-0F60856EBDC0}|LabCGeiHC\\LabCGeiHC.vcxproj|C:\\Users\\sergi\\OneDrive\\Documentos\\LabCGeiHC\\LabCGeiHC\\LabCGeiHC\\mainbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F21E38D3-C147-424D-8F4E-0F60856EBDC0}|LabCGeiHC\\LabCGeiHC.vcxproj|solutionrelative:LabCGeiHC\\mainbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainbase.cpp",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\LabCGeiHC\\LabCGeiHC\\LabCGeiHC\\mainbase.cpp",
+              "RelativeDocumentMoniker": "LabCGeiHC\\mainbase.cpp",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\LabCGeiHC\\LabCGeiHC\\LabCGeiHC\\mainbase.cpp",
+              "RelativeToolTip": "LabCGeiHC\\mainbase.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAowMkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-25T16:49:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
